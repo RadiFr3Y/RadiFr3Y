@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiFr3Y&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)<br>
 <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
 
 ---
